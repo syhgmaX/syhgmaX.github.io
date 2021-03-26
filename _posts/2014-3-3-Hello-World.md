@@ -1,14 +1,7 @@
 ---
 layout: post
-title: I've started working on a game
+title: Oakview Ridge!
 ---
-## Oakview Ridge...
-### is the name I have decided on, at least temporarily.
 
-You're thinking, _another_ Stardew Valley clone? _Another_ Harvest Moon ripoff? 
-You're damn right!!!  
-
-I've been working on the project for about two days now, mostly trying to figure out where I want to take it and how I should go about things, and in this time I have done a few things. So far, I've made three songs, some basic sprites, and I have started piecing together a story. I really want to make this thing my own, and not just be another "ripoff" game, and that's what I'm going to try damn well hard to do. I've got some ideas brewing, you just wait.  
-----
-Here, have some music!
+I've started development on a small passion project, Oakview Ridge, which is a farming-rpg style game in the light of Stardew Valley, Harvest Moon, and Animal Crossing. I've been working on the project for about two-ish days now, and I have spent most of this time trying to figure out how to do this thing. Story, art direction, music, etc. I really want to make something unique and special. Today, I made a couple of songs, three of which I am relatively comfortable with. Since I have nothing else to show for this early in development, other than a few basic test sprites and some terrible farming mechanics and UI, have some music:    
 
