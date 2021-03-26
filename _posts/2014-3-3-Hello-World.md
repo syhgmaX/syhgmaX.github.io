@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: I've started working on a game
 ---
+## Oakview Ridge... ##
+### is the name I have decided on, at least temporarily. ###
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+You're thinking, _another_ Stardew Valley clone? _Another_ Harvest Moon ripoff? 
+You're damn right!!!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I've enjoyed these games a ton in the past, and as more of a passion project than anything, I want to try and recreate the happiness I felt when playing these games for the first time. There were some things from both games that I thought were missing, and this project intends to add them. Also, much like Eric, this would look hella nice on my resume lmao.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I've been working on the project for about two days now, mostly trying to figure out where I want to take it and how I should go about things, and in this time I have done a few things. So far, I've made three songs (all of them today, surprise), some basic sprites, and I have started piecing together a story. I really want to make this thing my own, and not just be another "ripoff" game, and that's what I'm going to try damn well hard to do. I've got some ideas brewing, you just wait.
+----
+Here, have some music!
+
