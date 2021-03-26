@@ -6,7 +6,7 @@ title: I've started working on a game
 ### is the name I have decided on, at least temporarily. ###
 
 You're thinking, _another_ Stardew Valley clone? _Another_ Harvest Moon ripoff? 
-You're damn right!!!
+You're damn right!!!  
 
 I've enjoyed these games a ton in the past, and as more of a passion project than anything, I want to try and recreate the happiness I felt when playing these games for the first time. There were some things from both games that I thought were missing, and this project intends to add them. Also, much like Eric, this would look hella nice on my resume lmao.
 
