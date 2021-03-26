@@ -13,4 +13,4 @@ Want to talk? Send me an email at the address listed below. I'd love to hear fro
 
 ### Contact me
 
-[email@domain.com](mailto:syhgma@gmail.com)
+[syhgma@gmail.com](mailto:syhgma@gmail.com)
